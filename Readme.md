@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[DelayedImagesEFDbContext.cs](./CS/DelayedImagesEF.Module/BusinessObjects/DelayedImagesEFDbContext.cs) (VB: [DelayedImagesEFDbContext.vb](./VB/DelayedImagesEF.Module/BusinessObjects/DelayedImagesEFDbContext.vb))**
+<!-- default file list end -->
 # How to enable delayed loading of images in Entity Framework
 
 
